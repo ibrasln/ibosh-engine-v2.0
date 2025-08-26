@@ -1,2 +1,2 @@
-# ibosh-engine-v2.0
+# ibosh-engine
 My own package to use as a template for my projects.
